@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cap1-fs</string>
+    <string name="title_activity_main">Cap1-fs</string>
+    <string name="package_name">com.sebastienguillon.cap1fs</string>
+    <string name="custom_url_scheme">com.sebastienguillon.cap1fs</string>
+</resources>
